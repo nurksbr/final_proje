@@ -2,8 +2,12 @@
 ###### KÜTÜPHANE OTOMASYONU /FİNAL PROJESİ
 <li><b><i>Kütüphane Otomasyon Sistemi Algoritma Final Projesi</i></b></li>
 
+Kütüphane otomasyon sistemi, öğrenci kaydı yapma, kayıtlı öğrencilerin giriş yapmasını sağlama, yeni kitap ekleyerek koleksiyonu güncelleme, mevcut kitaplardan istenilenleri ödünç alma, ödünç alınan kitapları zamanında iade etme ve geri verilen kitapların istatistiklerini görme gibi çok çeşitli fonksiyonlara sahiptir.
 
 
+Bu projeyi `JAVA` ile yazdım.
+Java da `Jframe` ile.
+Burada veritabanı olarak `MySQL` kullandım.
 
 
 
