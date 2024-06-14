@@ -5,8 +5,10 @@
 
 
 Kütüphane otomasyon sistemi, öğrenci kaydı yapma, kayıtlı öğrencilerin giriş yapmasını sağlama, yeni kitap ekleyerek koleksiyonu güncelleme, mevcut kitaplardan istenilenleri ödünç alma, ödünç alınan kitapları zamanında iade etme ve geri verilen kitapların istatistiklerini görme gibi çok çeşitli fonksiyonlara sahiptir.
-<p></p>
-<p></p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
 <p></p>
 
 <p>Bu projeyi `JAVA` ile yazdım.</p>
