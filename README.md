@@ -16,16 +16,6 @@ Kütüphane otomasyon sistemi, öğrenci kaydı yapma, kayıtlı öğrencilerin 
 <p>.</p>
 <p>.</p>
 <p>.</p>
-```
-def sayHi():
-    print("Merhaba Dünya!")
-}
-```
-
-
-
-
-
 ![image](https://github.com/nurksbr/final_proje/assets/147191768/7f036cbd-1338-4a22-9857-5ff38ff7e22b)
 ![image](https://github.com/nurksbr/final_proje/assets/147191768/1e1c221b-30a5-436f-a374-25edc983be1b)
 ![image](https://github.com/nurksbr/final_proje/assets/147191768/8c99d94d-5ac9-488f-948e-33fdbf1c91d0)
