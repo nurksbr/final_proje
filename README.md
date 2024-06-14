@@ -1,5 +1,5 @@
 # final_proje
-##KÜTÜPHANE OTOMASYONU /FİNAL PROJESİ
+## KÜTÜPHANE OTOMASYONU /FİNAL PROJESİ
 
 <li><b><i>Kütüphane Otomasyon Sistemi Algoritma Final Projesi</i></b></li>
 
