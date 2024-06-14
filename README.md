@@ -8,13 +8,19 @@ Kütüphane otomasyon sistemi, öğrenci kaydı yapma, kayıtlı öğrencilerin 
 <p>.</p>
 <p>.</p>
 <p>.</p>
-<p>.</p>
 <p></p>
 
 <p>Bu projeyi `JAVA` ile yazdım.</p>
 <p>Java da `Jframe` ile.</p>
 <p>Burada veritabanı olarak `MySQL` kullandım.</p>
-
+<p>.</p>
+<p>.</p>
+<p>.</p>
+```
+def sayHi():
+    print("Merhaba Dünya!")
+}
+```
 
 
 
