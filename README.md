@@ -1,5 +1,6 @@
 # final_proje
-**_kütüphane otomasyon sistemi algoritma final projesi_**
+<li><b><i>Kütüphane Otomasyon Sistemi Algoritma Final Projesi</i></b></li>
+
 
 
 
